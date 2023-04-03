@@ -17,6 +17,9 @@ string phrase2 = phrase + " " + phrase1;
 Console.WriteLine(phrase2);
 
 
+
+
+
 // Treta zadaca
 
 /*
